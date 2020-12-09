@@ -1,0 +1,40 @@
+img{
+	width:500px;
+    border:3px solid;
+}
+body{
+	background:#0306ab;
+}
+.name{
+	color:#e6478e;
+    font-size:70px;
+}
+.facts{
+    color:#d92727;
+    background:#fce300;
+    font-size:40px;
+    font-family: 'Indie Flower', cursive;
+}
+.me{
+    color:#e6478e;
+	font-size:40px;
+    background:#000000;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+p, ul{
+    color:#fffefc;
+    font-size:25px;
+}
+.things{
+	text-decoration: underline;
+}
+.years{
+	color:#03c2fc;
+    background:#ffffff;
+    font-family: 'Anton', sans-serif;
+}
+.code{
+	color:#e3cc1b;
+    background:#8d1ee3;
+    font-family: 'Stalinist One', cursive;
+}
